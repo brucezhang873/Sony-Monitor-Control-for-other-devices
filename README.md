@@ -1,5 +1,5 @@
 # Sony-Monitor-Control-for-removing-device-model-restrictions
-恶心的索尼不让a6700用索尼的监视软件Monitor Control。我解决了这个问题，并且增加了峰值对焦和手机水平仪的功能
+恶心的索尼不让索尼的一些本来支持的机型用索尼的监视软件Monitor Control。我解决了这个问题，并且增加了峰值对焦和手机水平仪的功能
 
 峰值对焦可以手动设定颜色与水平
 水平仪功能是调用手机的陀螺仪，可以把手机用热靴支架垂直放于相机上，长按图标可以校准
